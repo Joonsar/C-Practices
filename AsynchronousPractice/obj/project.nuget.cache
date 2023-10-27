@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "es4qfSAxthDjnUNXShDThFsBjJmpkNjHbfwCz5uFLypfWPV50/2XTxArw6KNfh3X5mZTqz/dApkKf+/R45n8Kg==",
+  "success": true,
+  "projectFilePath": "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\sarin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\sarin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\sarin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
