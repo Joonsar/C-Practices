@@ -1,0 +1,15 @@
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\bin\Debug\net6.0\LINQ and Lambda Expression Practice.exe
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\bin\Debug\net6.0\LINQ and Lambda Expression Practice.deps.json
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\bin\Debug\net6.0\LINQ and Lambda Expression Practice.runtimeconfig.json
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\bin\Debug\net6.0\LINQ and Lambda Expression Practice.dll
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\bin\Debug\net6.0\LINQ and Lambda Expression Practice.pdb
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.csproj.AssemblyReference.cache
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.AssemblyInfoInputs.cache
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.AssemblyInfo.cs
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.csproj.CoreCompileInputs.cache
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.dll
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\refint\LINQ and Lambda Expression Practice.dll
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.pdb
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\LINQ and Lambda Expression Practice.genruntimeconfig.cache
+D:\Practices\C#\OwnPractices\OwnPractices\LINQ and Lambda Expression Practice\obj\Debug\net6.0\ref\LINQ and Lambda Expression Practice.dll

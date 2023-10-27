@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practices\\C#\\OwnPractices\\LINQ and Lambda Expression Practice\\LINQ and Lambda Expression Practice.csproj",
+      "projectUniqueName": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\LINQ and Lambda Expression Practice\\LINQ and Lambda Expression Practice.csproj",
       "projectName": "LINQ and Lambda Expression Practice",
-      "projectPath": "D:\\Practices\\C#\\OwnPractices\\LINQ and Lambda Expression Practice\\LINQ and Lambda Expression Practice.csproj",
+      "projectPath": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\LINQ and Lambda Expression Practice\\LINQ and Lambda Expression Practice.csproj",
       "packagesPath": "C:\\Users\\sarin\\.nuget\\packages\\",
-      "outputPath": "D:\\Practices\\C#\\OwnPractices\\LINQ and Lambda Expression Practice\\obj\\",
+      "outputPath": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\LINQ and Lambda Expression Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sarin\\AppData\\Roaming\\NuGet\\NuGet.Config",

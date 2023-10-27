@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj": {}
+    "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj": {}
   },
   "projects": {
-    "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj": {
+    "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj",
+        "projectUniqueName": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj",
         "projectName": "AsynchronousPractice",
-        "projectPath": "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj",
+        "projectPath": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\AsynchronousPractice\\AsynchronousPractice.csproj",
         "packagesPath": "C:\\Users\\sarin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practices\\C#\\OwnPractices\\AsynchronousPractice\\obj\\",
+        "outputPath": "D:\\Practices\\C#\\OwnPractices\\OwnPractices\\AsynchronousPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarin\\AppData\\Roaming\\NuGet\\NuGet.Config",
